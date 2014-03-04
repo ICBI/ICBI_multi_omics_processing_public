@@ -18,4 +18,4 @@ To read more about the RF-ACE (Random Forest - Artificial Contrasts with Ensembl
 #####Citation:
 Subha Madhavan et al, Genome-wide multi-omics profiling of colorectal cancer identifies immune determinants strongly associated with relapse, Frontiers in Genetics, Nov 2013. doi: 10.3389.
 
-To access the full text article, please click here: http://www.frontiersin.org/Journal/10.3389/fgene.2013.00236/abstract
+To access the full text article, please click [here](http://www.frontiersin.org/Journal/10.3389/fgene.2013.00236/abstract)
