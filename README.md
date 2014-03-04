@@ -9,6 +9,8 @@ Here we describe the workflow for our multi omics analysis pipeline.
 Use function [t.test()](http://stat.ethz.ch/R-manual/R-patched/library/stats/html/t.test.html). 
 Some nice examples for this function can be found [here] (http://www.statmethods.net/stats/ttest.html)
 
+######To perform SVM in R
+Use package [e1071](http://cran.r-project.org/web/packages/e1071/e1071.pdf) in R
 
 
 #####Citation:
