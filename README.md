@@ -12,6 +12,8 @@ Some nice examples for this function can be found [here] (http://www.statmethods
 ######To perform SVM in R
 Use package [e1071](http://cran.r-project.org/web/packages/e1071/e1071.pdf)
 
+######RF-ACE
+To read more about the RF-ACE (Random Forest - Artificial Contrasts with Ensembles) method see [here](http://www.genome.gov/Multimedia/Slides/TCGA1/TCGA1_Erkkila.pdf). The google code can be found [here](https://code.google.com/p/rf-ace/)
 
 #####Citation:
 Subha Madhavan et al, Genome-wide multi-omics profiling of colorectal cancer identifies immune determinants strongly associated with relapse, Frontiers in Genetics, Nov 2013. doi: 10.3389.
