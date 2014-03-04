@@ -1,7 +1,7 @@
 ### Welcome to the ICBI multi omics processing pipeline page.
 Here we describe the workflow for our multi omics analysis pipeline. 
 
-######Workflow diagram specific to the work for our manuscript is shown below:
+#####Workflow diagram specific to the work for our manuscript is shown below:
 
 ![Image](http://www.frontiersin.org/files/Articles/66002/fgene-04-00236-r2/image_m/fgene-04-00236-g001.jpg?raw=true;width: 642px; height: 300px;)
 
@@ -11,7 +11,7 @@ Some nice examples for this function can be found [here] (http://www.statmethods
 
 
 
-######Citation:
+#####Citation:
 Subha Madhavan et al, Genome-wide multi-omics profiling of colorectal cancer identifies immune determinants strongly associated with relapse, Frontiers in Genetics, Nov 2013. doi: 10.3389.
 
 To access the full text article, please click here: http://www.frontiersin.org/Journal/10.3389/fgene.2013.00236/abstract
